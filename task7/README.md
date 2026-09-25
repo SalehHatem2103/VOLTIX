@@ -36,7 +36,7 @@ Final cleaned dataset: **247 patient records**, no missing values, no duplicates
 
 Single-page interactive Power BI dashboard, "Hospital Analytics Dashboard — 2023":
 
-*(Add a screenshot of the final dashboard here, e.g. `![Dashboard](dashboard.png)`)*
+<img width="1206" height="678" alt="dashboard" src="https://github.com/user-attachments/assets/c8d0f9df-0f71-4e40-a2e0-50c6179abf40" />
 
 **Slicers (left panel):**
 - Gender
