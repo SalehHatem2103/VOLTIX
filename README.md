@@ -18,7 +18,7 @@ Hands-on projects completed during the **Data Analysis** training program at **V
 | [**Task 8: Medical Appointments No-Show Analysis**](./task8) | Excel | 102,846 appointments | No-show rate of 20.47%. Rate climbs from 4.5% for same-day bookings to 33% for bookings made 30+ days ahead. Breakdowns by neighbourhood and age group. |
 | [**Task 11: Video Game Industry Analysis**](./task11) | Python + Power BI | 17,401 cleaned records | 12 analysis charts in Python plus a two-page Power BI dashboard: sales by genre, platform, publisher, region, and review scores over time. |
 | [**Task 10: Movie Industry Analytics**](./task10) | Power BI | ~4,800 movies | 6 KPI cards (revenue, profit, ROI, rating, runtime), revenue and rating trends, top 10 movies, and profitability by runtime group. |
-| [**Task 7: Hospital Analytics**](./task7) | Power Query + Power BI | 247 patient records | Cleaned reversed admission and discharge dates (29 records), built KPIs such as $618,995 total billing and 6.26 days average stay, with 4 interactive slicers. |
+| [**Task 7: Hospital Analytics**](./task7) | Power BI | 247 patient records | Cleaned reversed admission and discharge dates (29 records), built KPIs such as $618,995 total billing and 6.26 days average stay, with 4 interactive slicers. |
 
 ## All Tasks
 
